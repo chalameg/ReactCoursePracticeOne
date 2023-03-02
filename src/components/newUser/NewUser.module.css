@@ -1,0 +1,26 @@
+.newUser{
+    border-radius: 10px;
+    padding: 1rem;
+    background-color: aliceblue;
+    width: 40%;
+    margin: 2rem auto;
+}
+
+.formControl{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.formControl input{
+    width: 100%;
+    padding: .5rem;
+}
+
+
+
+@media (max-width: 768px) {
+    .newUser{
+        width: 90%;
+    }
+}

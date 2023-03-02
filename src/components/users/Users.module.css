@@ -1,0 +1,13 @@
+.users{
+    border-radius: 10px;
+    padding: 1rem;
+    background-color: aliceblue;
+    width: 40%;
+    margin: 2rem auto;
+}
+
+.users div{
+    border: .5px solid rgb(163, 155, 155);
+    padding: .4rem;
+    margin-bottom: .4rem;
+}
